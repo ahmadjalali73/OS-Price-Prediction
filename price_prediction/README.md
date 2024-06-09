@@ -1,0 +1,2 @@
+Consider a situation, where you have the hardware configuration of a cellphone, but you have no idea about the price of it. This code will help you guess the price of the mobiles with the power of machine learning.
+ 
